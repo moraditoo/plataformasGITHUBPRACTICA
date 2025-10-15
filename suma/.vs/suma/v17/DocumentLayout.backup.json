@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\practica\\suma\\",
+  "WorkspaceRootPath": "C:\\Users\\PAVILION\\Documents\\github\\suma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E514244-BC72-4776-9919-9EB206B5BF12}|suma\\suma.csproj|c:\\users\\admin\\desktop\\practica\\suma\\suma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62B24C7D-5B2E-49A0-967A-2ACBC411963D}|saludo\\saludo.csproj|c:\\users\\pavilion\\documents\\github\\suma\\saludo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B24C7D-5B2E-49A0-967A-2ACBC411963D}|saludo\\saludo.csproj|solutionrelative:saludo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E514244-BC72-4776-9919-9EB206B5BF12}|suma\\suma.csproj|c:\\users\\pavilion\\documents\\github\\suma\\suma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E514244-BC72-4776-9919-9EB206B5BF12}|suma\\suma.csproj|solutionrelative:suma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\practica\\suma\\suma\\Program.cs",
-              "RelativeDocumentMoniker": "suma\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\practica\\suma\\suma\\Program.cs",
-              "RelativeToolTip": "suma\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Documents\\github\\suma\\saludo\\Program.cs",
+              "RelativeDocumentMoniker": "saludo\\Program.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Documents\\github\\suma\\saludo\\Program.cs",
+              "RelativeToolTip": "saludo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:18:55.601Z",
+              "WhenOpened": "2025-10-15T19:27:44.401Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Documents\\github\\suma\\suma\\Program.cs",
+              "RelativeDocumentMoniker": "suma\\Program.cs",
+              "ToolTip": "C:\\Users\\PAVILION\\Documents\\github\\suma\\suma\\Program.cs",
+              "RelativeToolTip": "suma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:18:55.601Z",
+              "EditorCaption": ""
             }
           ]
         }
